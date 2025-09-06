@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clayalexssander
-- 🌱 I’m currently learning C,CSS,Java script, Java and HTML 
+- 🌱 Programming skills in Python, C, CSS, Java script, Java and HTML 
 - 📫 How to reach me aclayver100@gmail.com
 - 😄 Pronouns: he/him
 
