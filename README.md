@@ -1,75 +1,56 @@
 <!-- Banner principal -->
-<h1 align="center">🌌 Bem-vindo ao Universo de Alexander 🚀</h1>
+<h1 align="center">
+  <img src="https://i.ibb.co/4j8QXK3/space-neon.gif" width="100px"><br/>
+  <b>Alexander | Programador & Criador de Ideias</b>
+</h1>
+
 <p align="center">
-  <i>Programador • Criador de Ideias • Explorador do Futuro</i>
+  <i>Transformando problemas reais em soluções criativas com tecnologia</i>
 </p>
 
 ---
 
-<!-- Menu estilo navbar -->
+<!-- Botões sociais estilo neon -->
 <p align="center">
-  <a href="#-sobre-mim">Sobre Mim</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-projetos-destaque">Projetos</a> •
-  <a href="#-estatísticas">Estatísticas</a> •
-  <a href="#-conexões">Conexões</a>
+  <a href="https://twitter.com/seutwitter">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seulinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://github.com/alexssander">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/seuyt">
+    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  </a>
 </p>
 
 ---
 
-<!-- Card Sobre Mim -->
-<h2 id="-sobre-mim">🛰️ Sobre Mim</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Estudante%20de%20Tecnologia-%F0%9F%8E%93-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Programador%20C%23-%F0%9F%92%BB-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%94%AE-orange?style=for-the-badge" />
-</div>
-
-<p>
-Sou apaixonado por transformar ideias em sistemas reais. Meus projetos exploram desde 
-<b>IA e Machine Learning</b> até <b>mapas inteligentes e impacto social</b>.  
-Minha missão é usar a tecnologia como <b>arma contra problemas do mundo real</b>.  
+<!-- Seção estilo card -->
+<h2 align="center">💡 O que eu faço</h2>
+<p align="center">
+  <b>🚀 Desenvolvimento</b> em <code>Python</code>, <code>C#</code>, <code>SQL</code><br/>
+  <b>🌌 Projetos com impacto</b> em IA, Mapas e Acessibilidade<br/>
+  <b>🎯 Missão</b>: usar tecnologia como ferramenta de transformação social
 </p>
 
 ---
 
-<!-- Card Tecnologias -->
-<h2 id="-tecnologias">⚡ Tecnologias</h2>
-
+<!-- Cards divididos estilo grid -->
 <div align="center">
-  
-| 💻 Linguagens | 🗄️ Bancos | 🛠️ Ferramentas |
-|---------------|-----------|----------------|
-| Python • C# • SQL • JS • HTML • CSS | MySQL • SQLite | Git • GitHub • Azure • VS Code |
+
+| 📚 Meus Estudos | 🛠️ Projetos | 🌐 Impacto |
+|-----------------|-------------|------------|
+| Estou sempre explorando **Machine Learning**, **Sistemas** e **Segurança da Informação** | Crio sistemas como **EcoFinder**, **DengueSense** e **IA para larvas** | Tecnologia aplicada para **saúde pública, meio ambiente e acessibilidade** |
 
 </div>
 
 ---
 
-<!-- Card Projetos -->
-<h2 id="-projetos-destaque">🚀 Projetos em Destaque</h2>
-
-<div align="center">
-
-💡 **EcoFinder**  
-<sub>Conecta pontos de coleta de recicláveis com coletores, usando mapas inteligentes.</sub>  
-
-💡 **DengueSense**  
-<sub>Site + IA que responde perguntas sobre dengue, com banco de dados e API.</sub>  
-
-💡 **Reconhecimento de Larvas**  
-<sub>Classificador de espécies usando Machine Learning + Processamento de Imagens.</sub>  
-
-💡 **App de Rotas Acessíveis**  
-<sub>Mapeamento urbano considerando barreiras para pessoas com deficiência.</sub>  
-
-</div>
-
----
-
-<!-- Card Estatísticas -->
-<h2 id="-estatísticas">📊 Estatísticas</h2>
+<!-- Estatísticas estilo neon -->
+<h2 align="center">📊 Minhas estatísticas</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexssander&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexssander&layout=compact&theme=radical" height="160"/>
@@ -77,19 +58,16 @@ Minha missão é usar a tecnologia como <b>arma contra problemas do mundo real</
 
 ---
 
-<!-- Card Conexões -->
-<h2 id="-conexões">🌐 Conexões</h2>
+<!-- Banner final -->
+<h2 align="center">🌌 Vamos explorar juntos?</h2>
+<p align="center">
+  <img src="https://i.ibb.co/wS5x2V9/neon-divider.gif" width="400px"/>
+</p>
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/seulinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/seuinstagram">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  🔗 <a href="mailto:seuemail@email.com">Email</a> • 
+  <a href="https://linkedin.com/in/seulinkedin">LinkedIn</a> • 
+  <a href="https://instagram.com/seuinstagram">Instagram</a>
 </p>
 
 ---
