@@ -5,7 +5,7 @@
   <br />
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20Mundo!&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Bem-vindo(a)%20ao%20meu%20perfil&descSize=20&descAlignY=51" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20Mundo!&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Bem-vindo(a)%20ao%20meu%20perfil&descSize=20&descAlignY=51](https://pin.it/5omwRrl2S)" />
 
 </div>
 
