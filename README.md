@@ -6,7 +6,8 @@
 
 <div align="center">
   
-   const developer = {
+  ```typescript
+  const developer = {
     pronouns: "ele/dele" || "ela/dela",
     code: ["JavaScript", "TypeScript", "Python", "Java"],
     technologies: {
@@ -76,4 +77,4 @@ https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoCol
 https://img.shields.io/github/contributors/seuusername/seuusername?style=for-the-badge
 https://komarev.com/ghpvc/?username=seuusername&style=for-the-badge
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" /></div>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" /></div> ```
