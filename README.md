@@ -1,11 +1,5 @@
  <img width="1920"  height="1080" src="https://github.com/user-attachments/assets/8e18d760-dd77-4fb7-9252-b15e900a7eb6" />
-<img 
-  width="1920"  
-  height="1080" 
-  src="https://github.com/user-attachments/assets/8e18d760-dd77-4fb7-9252-b15e900a7eb6" 
-  style="border-radius: 30px;" 
-/>
-
+ 
 ## 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas e especialização em Desenvolvimento Web Full Stack. Tenho experiência em criação de aplicações web modernas utilizando React, Node.js e bancos de dados relacionais e não relacionais.
