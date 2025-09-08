@@ -1,35 +1,19 @@
-  <div align="left">
+<div align="center">
   <table>
     <tr>
       <td>
         <img src="https://github.com/clayalexssander/pics/raw/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png" 
              alt="Clayver Alexssander" 
              width="200"
-             style="border-radius: 15px; box-shadow: 0 0 15px #27F7D6, 0 0 25px #27F7D6, 0 0 35px #27F7D6; border: 3px solid #27F7D6; animation: pulse 2s infinite;" />
+             style="border-radius: 15px; box-shadow: 0 0 15px #27F7D6, 0 0 25px #27F7D6, 0 0 35px #27F7D6; border: 3px solid #27F7D6;" />
       </td>
       <td>
-        <h1 style="margin: 0; padding-left: 20px; font-size: 2.5em; background: linear-gradient(90deg, #fff, #27F7D6, #fff, #27F7D6, #fff); background-size: 200% auto; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: shine 3s linear infinite; text-shadow: 0 0 10px rgba(39, 247, 214, 0.5), 0 0 20px rgba(39, 247, 214, 0.3);">
-          Desenvolvedor de Software
-        </h1>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D6&center=false&vCenter=true&width=435&lines=Desenvolvedor+de+Software" alt="Typing SVG" />
       </td>
     </tr>
   </table>
 </div>
 
-<style>
-  @keyframes shine {
-    0% { background-position: 0% center; }
-    100% { background-position: 200% center; }
-  }
-  
-  @keyframes pulse {
-    0% { box-shadow: 0 0 15px #27F7D6, 0 0 25px #27F7D6, 0 0 35px #27F7D6; }
-    50% { box-shadow: 0 0 20px #27F7D6, 0 0 30px #27F7D6, 0 0 40px #27F7D6; }
-    100% { box-shadow: 0 0 15px #27F7D6, 0 0 25px #27F7D6, 0 0 35px #27F7D6; }
-  }
-</style>
-
-<br />
 <br />
 
 <div align="center">
