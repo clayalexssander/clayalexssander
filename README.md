@@ -1,21 +1,4 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/clayalexssander/pics/raw/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png" 
-             alt="Clayver Alexssander" 
-             width="600"
-             style="border-radius: 15px; box-shadow: 0 0 15px #27F7D6, 0 0 25px #27F7D6, 0 0 35px #27F7D6; border: 3px solid #27F7D6;" />
-      </td>
-      <td>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Clayver+Alexssander&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor+Full+Stack&descSize=18&descAlignY=51" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
- 
+ <img width="1920" height="1080" alt="Cópia de Apresentação de Negócios Plano de Negócios Geométrico Corporativo Verde Preto e Branco (6)" src="https://github.com/user-attachments/assets/8e18d760-dd77-4fb7-9252-b15e900a7eb6" />
 
 ## 👨‍💻 Sobre Mim
 
