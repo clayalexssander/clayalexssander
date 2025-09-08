@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Tecnologia+é+meu+universo;Bem-vindo+ao+meu+perfil!" alt="Typing SVG width:300px" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Tecnologia+é+meu+universo;Bem-vindo+ao+meu+perfil!" alt="Typing SVG " />
 
   <br />
   <br />
@@ -12,7 +12,8 @@
 <div align="center">
   <img src="https://github.com/clayalexssander/pics/raw/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png" 
        alt="Clayver Alexssander" 
-       style="border-radius: 15px; box-shadow: 0 0 20px #27F7D6, 0 0 30px #27F7D6; border: 2px solid #27F7D6; max-width: 80%; height: auto;" />
+       width="300"
+       style="border-radius: 15px; box-shadow: 0 0 20px #27F7D6, 0 0 30px #27F7D6; border: 2px solid #27F7D6;" />
 </div>
 
 ## 👨‍💻 Sobre Mim
