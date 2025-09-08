@@ -22,20 +22,10 @@
         <stop offset="100%" stop-color="#27F7D6" />
       </linearGradient>
     </defs>
+<p align="center">
+  <img src="https://github.com/clayalexssander/pics/raw/main/banner-futurista.gif" alt="Clayver Alexssander Futurista" width="800" />
+</p>
 
-    <!-- Texto com glow -->
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="48" font-family="Orbitron, sans-serif"
-          fill="url(#gradient)" stroke="#0ff" stroke-width="1">
-      Clayver Alexssander
-    </text>
-
-    <!-- Subtítulo -->
-    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle"
-          font-size="20" font-family="Orbitron, sans-serif"
-          fill="#aaa">
-      Desenvolvedor Full Stack
-    </text>
   </svg>
 </p>
 
