@@ -8,8 +8,37 @@
              style="border-radius: 15px; box-shadow: 0 0 15px #27F7D6, 0 0 25px #27F7D6, 0 0 35px #27F7D6; border: 3px solid #27F7D6;" />
       </td>
       <td>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Clayver+Alexssander&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor+Full+Stack&descSize=18&descAlignY=51" />
-      </td>
+      <p align="center">
+  <svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Gradiente animado -->
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="200%" y2="0%">
+        <stop offset="0%" stop-color="#27F7D6">
+          <animate attributeName="offset" values="-2; 1" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#ff00ff">
+          <animate attributeName="offset" values="-1; 2" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#27F7D6" />
+      </linearGradient>
+    </defs>
+
+    <!-- Texto com glow -->
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="48" font-family="Orbitron, sans-serif"
+          fill="url(#gradient)" stroke="#0ff" stroke-width="1">
+      Clayver Alexssander
+    </text>
+
+    <!-- Subtítulo -->
+    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle"
+          font-size="20" font-family="Orbitron, sans-serif"
+          fill="#aaa">
+      Desenvolvedor Full Stack
+    </text>
+  </svg>
+</p>
+
     </tr>
   </table>
 </div>
