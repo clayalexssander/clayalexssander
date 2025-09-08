@@ -1,5 +1,5 @@
 <div align="center">
-  <table style="visibility: hidden;">
+  <table style="border: none;">
     <tr>
       <td>
         <img src="https://github.com/clayalexssander/pics/raw/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png" 
