@@ -1,5 +1,5 @@
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <img src="https://github.com/clayalexssander/pics/raw/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png" 
@@ -13,6 +13,7 @@
     </tr>
   </table>
 </div>
+
 
 
 ## 👨‍💻 Sobre Mim
