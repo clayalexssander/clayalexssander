@@ -3,12 +3,6 @@
              alt="Clayver Alexssander" 
              width="200"
              style="border-radius: 15px; box-shadow: 0 0 15px #27F7D6, 0 0 25px #27F7D6, 0 0 35px #27F7D6; border: 3px solid #27F7D6;" />
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D6&center=false&vCenter=true&width=435&lines=Desenvolvedor+de+Software" alt="Typing SVG" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Clayver+Alexssander&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor+Full+Stack&descSize=18&descAlignY=51" />
 </div>
 
