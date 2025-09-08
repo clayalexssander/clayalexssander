@@ -1,12 +1,18 @@
 <div align="center">
   
-  <img src="[[[[[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Tecnologia+é+meu+universo;Bem-vindo+ao+meu+perfil!" alt="Typing SVG](https://i.pinimg.com/736x/cb/b6/d0/cbb6d0e36a32e5604d7400478c19e3e6.jpg)](https://br.pinterest.com/pin/719661215496704130)](https://pin.it/4mwQ7ng1C)](https://github.com/clayalexssander/pics/blob/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png)](https://github.com/clayalexssander/pics/blob/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Tecnologia+é+meu+universo;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 
   <br />
   <br />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Clayver+Alexssander&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor+Full+Stack&descSize=20&descAlignY=51" />
 
+</div>
+
+<div align="center">
+  <img src="https://github.com/clayalexssander/pics/raw/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png" 
+       alt="Clayver Alexssander" 
+       style="border-radius: 15px; box-shadow: 0 0 20px #27F7D6, 0 0 30px #27F7D6; border: 2px solid #27F7D6; max-width: 80%; height: auto;" />
 </div>
 
 ## 👨‍💻 Sobre Mim
