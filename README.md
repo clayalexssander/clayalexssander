@@ -3,9 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MELOMANIAC - Portal de Música Cyberpunk</title>
+    <title>MELOMANIAC - Cyberpunk Neon Style</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Exo+2:wght@300;400;600&display=swap');
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Exo 2', 'Orbitron', sans-serif;
+        }
         
         :root {
             --neon-purple: #c724f5;
@@ -15,34 +21,12 @@
             --electric-purple: #8a2be2;
         }
         
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
         body {
             background: var(--deep-black);
             color: white;
-            font-family: 'Exo 2', sans-serif;
             min-height: 100vh;
             overflow-x: hidden;
             position: relative;
-        }
-        
-        body::before {
-            content: '';
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: 
-                radial-gradient(circle at 20% 30%, rgba(199, 36, 245, 0.2) 0%, transparent 40%),
-                radial-gradient(circle at 80% 70%, rgba(255, 42, 150, 0.15) 0%, transparent 40%),
-                radial-gradient(circle at 40% 80%, rgba(185, 103, 255, 0.1) 0%, transparent 40%);
-            pointer-events: none;
-            z-index: -3;
         }
         
         .cyberpunk-bg {
@@ -56,8 +40,17 @@
             overflow: hidden;
         }
         
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        /* Efeitos de partículas e luzes */
         .particles {
-            position: absolute;
+            position: fixed;
             top: 0;
             left: 0;
             width: 100%;
@@ -94,23 +87,13 @@
             animation: beam 8s infinite linear;
         }
         
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 20px;
-            display: grid;
-            grid-template-columns: 1fr 300px;
-            gap: 30px;
-            position: relative;
-            z-index: 1;
-        }
-        
+        /* Cabeçalho e Navegação */
         header {
-            grid-column: 1 / -1;
             display: flex;
             flex-direction: column;
             align-items: center;
             margin-bottom: 40px;
+            padding: 20px;
         }
         
         nav {
@@ -134,7 +117,6 @@
         nav a {
             color: white;
             text-decoration: none;
-            font-family: 'Exo 2', sans-serif;
             font-weight: 300;
             font-size: 16px;
             letter-spacing: 1px;
@@ -162,6 +144,7 @@
             width: 100%;
         }
         
+        /* Logo e Título */
         .logo-container {
             text-align: center;
             margin-bottom: 40px;
@@ -181,8 +164,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: 
-                radial-gradient(circle, var(--neon-purple) 0%, transparent 70%);
+            background: radial-gradient(circle, var(--neon-purple) 0%, transparent 70%);
             border-radius: 50%;
             animation: pulse 3s infinite alternate;
             z-index: -1;
@@ -206,7 +188,6 @@
         }
         
         .subtitle {
-            font-family: 'Exo 2', sans-serif;
             font-size: 16px;
             font-weight: 300;
             color: var(--neon-lilac);
@@ -214,6 +195,7 @@
             text-transform: uppercase;
         }
         
+        /* Conteúdo Principal */
         .main-content {
             display: flex;
             flex-direction: column;
@@ -234,6 +216,7 @@
             box-shadow: 0 0 10px rgba(255, 42, 150, 0.5);
         }
         
+        /* Cubo Holográfico */
         .hologram-cube {
             width: 300px;
             height: 200px;
@@ -279,13 +262,13 @@
         }
         
         .join-text {
-            font-family: 'Exo 2', sans-serif;
             font-size: 18px;
             color: var(--neon-lilac);
             text-transform: uppercase;
             letter-spacing: 2px;
         }
         
+        /* Botões Sociais */
         .social-buttons {
             display: flex;
             gap: 20px;
@@ -312,7 +295,6 @@
             width: auto;
             padding: 0 20px;
             border-radius: 25px;
-            font-family: 'Exo 2', sans-serif;
             font-size: 14px;
             text-transform: uppercase;
             letter-spacing: 1px;
@@ -324,6 +306,7 @@
             transform: translateY(-3px);
         }
         
+        /* Player de Música */
         .music-player {
             width: 100%;
             max-width: 500px;
@@ -346,7 +329,6 @@
         }
         
         .track-name {
-            font-family: 'Exo 2', sans-serif;
             font-size: 18px;
             font-weight: 600;
             color: white;
@@ -354,7 +336,6 @@
         }
         
         .artist {
-            font-family: 'Exo 2', sans-serif;
             font-size: 14px;
             color: var(--neon-lilac);
         }
@@ -423,43 +404,16 @@
         .time {
             display: flex;
             justify-content: space-between;
-            font-family: 'Exo 2', sans-serif;
             font-size: 12px;
             color: rgba(255, 255, 255, 0.7);
         }
         
-        footer {
-            grid-column: 1 / -1;
-            text-align: center;
-            margin-top: 50px;
-            padding: 20px;
-            border-top: 1px solid rgba(185, 103, 255, 0.2);
-        }
-        
-        .copyright {
-            font-family: 'Exo 2', sans-serif;
-            font-size: 14px;
-            color: rgba(255, 255, 255, 0.6);
-            margin-bottom: 10px;
-        }
-        
-        .footer-social {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-        }
-        
-        .footer-social a {
-            color: rgba(255, 255, 255, 0.7);
-            font-size: 16px;
-            transition: color 0.3s ease;
-        }
-        
-        .footer-social a:hover {
-            color: var(--neon-purple);
-        }
-        
+        /* Painel Lateral */
         .side-panel {
+            position: fixed;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
             background: rgba(5, 0, 15, 0.7);
             border-radius: 15px;
             padding: 20px;
@@ -468,6 +422,8 @@
             display: flex;
             flex-direction: column;
             gap: 30px;
+            width: 250px;
+            z-index: 100;
         }
         
         .profile {
@@ -507,20 +463,17 @@
         }
         
         .profile-name {
-            font-family: 'Exo 2', sans-serif;
             font-size: 18px;
             color: white;
         }
         
         .quote {
-            margin-top: auto;
             text-align: center;
             padding: 20px 0;
             border-top: 1px solid rgba(185, 103, 255, 0.2);
         }
         
         .quote-text {
-            font-family: 'Exo 2', sans-serif;
             font-style: italic;
             font-size: 16px;
             color: rgba(255, 255, 255, 0.8);
@@ -534,7 +487,37 @@
             color: var(--neon-lilac);
         }
         
-        /* Animations */
+        /* Rodapé */
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 20px;
+            border-top: 1px solid rgba(185, 103, 255, 0.2);
+        }
+        
+        .copyright {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.6);
+            margin-bottom: 10px;
+        }
+        
+        .footer-social {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+        
+        .footer-social a {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 16px;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-social a:hover {
+            color: var(--neon-purple);
+        }
+        
+        /* Animações */
         @keyframes pulse {
             0% { opacity: 0.5; transform: scale(1); }
             50% { opacity: 0.7; transform: scale(1.05); }
@@ -570,15 +553,15 @@
             100% { transform: translateX(100vw) rotate(5deg); opacity: 0; }
         }
         
-        /* Responsive */
+        /* Responsividade */
         @media (max-width: 992px) {
-            .container {
-                grid-template-columns: 1fr;
-            }
-            
             .side-panel {
-                order: -1;
-                margin-bottom: 30px;
+                position: relative;
+                width: 100%;
+                right: 0;
+                top: 0;
+                transform: none;
+                margin: 30px 0;
                 flex-direction: row;
                 flex-wrap: wrap;
                 justify-content: center;
@@ -690,9 +673,9 @@
             </div>
             
             <div class="social-buttons">
-                <a href="#" class="social-icon">📷</a>
-                <a href="#" class="social-icon">🐦</a>
-                <a href="#" class="social-icon">💬</a>
+                <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-whatsapp"></i></a>
                 <a href="#" class="text-button">Reglamento</a>
                 <a href="#" class="text-button">Protocolo</a>
             </div>
@@ -747,17 +730,17 @@
         <footer>
             <div class="copyright">© 2024 MELOMANIAC. Todos os direitos reservados.</div>
             <div class="footer-social">
-                <a href="#">📷</a>
-                <a href="#">🐦</a>
-                <a href="#">💬</a>
-                <a href="#">🎵</a>
-                <a href="#">📱</a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-whatsapp"></i></a>
+                <a href="#"><i class="fab fa-spotify"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
             </div>
         </footer>
     </div>
 
     <script>
-        // Create particles
+        // Cria partículas e efeitos de luz
         document.addEventListener('DOMContentLoaded', function() {
             const particlesContainer = document.getElementById('particles');
             const particleCount = 50;
@@ -781,7 +764,7 @@
                 particlesContainer.appendChild(particle);
             }
             
-            // Create smoke effects
+            // Cria efeitos de fumaça
             for (let i = 0; i < 5; i++) {
                 const smoke = document.createElement('div');
                 smoke.classList.add('smoke');
@@ -794,7 +777,7 @@
                 particlesContainer.appendChild(smoke);
             }
             
-            // Create energy beams
+            // Cria raios de energia
             for (let i = 0; i < 3; i++) {
                 const beam = document.createElement('div');
                 beam.classList.add('energy-beam');
@@ -807,14 +790,32 @@
                 particlesContainer.appendChild(beam);
             }
             
-            // Music player functionality
+            // Funcionalidade do player de música
             const playButton = document.querySelector('.play-button');
             let isPlaying = false;
             
             playButton.addEventListener('click', function() {
                 isPlaying = !isPlaying;
                 playButton.textContent = isPlaying ? '❚❚' : '▶';
+                
+                // Animação adicional para a barra de progresso
+                const progressBar = document.querySelector('.progress');
+                if (isPlaying) {
+                    progressBar.style.animation = 'progress-animation 4s linear infinite';
+                } else {
+                    progressBar.style.animation = 'none';
+                }
             });
+            
+            // Adiciona a animação da barra de progresso
+            const style = document.createElement('style');
+            style.textContent = `
+                @keyframes progress-animation {
+                    0% { width: 0%; }
+                    100% { width: 100%; }
+                }
+            `;
+            document.head.appendChild(style);
         });
     </script>
 </body>
