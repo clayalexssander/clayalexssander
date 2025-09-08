@@ -1,5 +1,5 @@
 <div align="center">
-  <table style="border: none;">
+  <table>
     <tr>
       <td>
         <img src="https://github.com/clayalexssander/pics/raw/main/WhatsApp%20Image%202025-09-07%20at%2020.29.53.png" 
@@ -8,33 +8,17 @@
              style="border-radius: 15px; box-shadow: 0 0 15px #27F7D6, 0 0 25px #27F7D6, 0 0 35px #27F7D6; border: 3px solid #27F7D6;" />
       </td>
       <td>
-      <p align="center">
-  <svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- Gradiente animado -->
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="200%" y2="0%">
-        <stop offset="0%" stop-color="#27F7D6">
-          <animate attributeName="offset" values="-2; 1" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="50%" stop-color="#ff00ff">
-          <animate attributeName="offset" values="-1; 2" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#27F7D6" />
-      </linearGradient>
-    </defs>
-<p align="center">
-  <img src="https://github.com/clayalexssander/pics/raw/main/banner-futurista.gif" alt="Clayver Alexssander Futurista" width="800" />
-</p>
-
-  </svg>
-</p>
-
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D6&center=false&vCenter=true&width=435&lines=Desenvolvedor+de+Software" alt="Typing SVG" />
+      </td>
     </tr>
   </table>
 </div>
 
+<br />
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Clayver+Alexssander&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor+Full+Stack&descSize=18&descAlignY=51" />
+</div>
 
 ## 👨‍💻 Sobre Mim
 
