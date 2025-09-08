@@ -10,11 +10,11 @@ Autor de projetos com impacto social como o **EcoFinder** — sistema para conec
 
 Busco me consolidar como **desenvolvedor backend e integrações**, criando soluções **robustas, escaláveis e de fácil manutenção**.  
 
-- 🔭 Projetos recentes: **EcoFinder** e **DengueSense**  
-- 🌱 Aprendendo: **Integração de APIs, Python avançado e boas práticas de arquitetura backend**  
-- 👯 Interessado em colaborar em: **Soluções inovadoras com impacto social e sustentável**  
-- 💬 Pergunte-me sobre: **C#, Python, MySQL, APIs, Backend Development**  
-- ⚡ Curiosidade: **Acredito que tecnologia pode transformar o mundo quando usada para resolver problemas reais.**  
+- 🔭 Projetos: **EcoFinder**, uma solução para otimizar a coleta de materiais recicláveis por meio da conexão entre coletores e solicitantes; e **DengueSense**, uma plataforma de conscientização e prevenção de surtos de dengue, integrada a recursos de Inteligência Artificial.  
+- 🌱 Em constante aprimoramento nas áreas de **Integração de APIs**, **Análise de Dados**, **arquitetura backend orientada a boas práticas** e **aplicações de Inteligência Artificial**. 
+- 👯 Aberto a colaborar em **iniciativas tecnológicas inovadoras**, com foco em impacto social, sustentabilidade e escalabilidade.  
+- 💬 Experiencia em **C#, Python, MySQL (avançado)**, Java, HTML/CSS, JavaScript, **desenvolvimento backend** e **integração de sistemas complexos**.  
+- ⚡ Visão profissional: **Acredito que a tecnologia, quando aplicada de forma estratégica, é um vetor de transformação capaz de solucionar desafios reais e gerar valor para a sociedade e para as organizações**.  
 
 ---
 
@@ -43,34 +43,13 @@ Busco me consolidar como **desenvolvedor backend e integrações**, criando solu
 
 ---
 
-## 🌟 Projetos em Destaque  
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| [**EcoFinder**](https://github.com/clayveralexssander/ecommerce-system) | Sistema para conectar coletores de recicláveis a solicitações de moradores e empresas. | C#, MySQL, Windows Forms |
-| [**DengueSense**](https://github.com/clayveralexssander/task-manager) | Website para prevenção e conscientização sobre surtos de dengue, integrado a API de IA. | WordPress, HTML, CSS, JS, MySQL |
-| [**API RESTful**](https://github.com/clayveralexssander/rest-api) | API para gestão de conteúdos com boas práticas de arquitetura backend. | Node.js, Express, PostgreSQL |  
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=clayveralexssander&show_icons=true&theme=radical&hide_border=true" height="165"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clayveralexssander&layout=compact&theme=radical&hide_border=true" height="165"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clayveralexssander&theme=radical&hide_border=true" height="165"/>  
-</div>  
-
----
-
 ## 📫 Conecte-se Comigo  
 
 <div align="center">  
-  <a href="mailto:clayveralexssander@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="mailto:aclayver100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
   <a href="https://www.linkedin.com/in/clayver-alexssander-ferreira-de-oliveira-56393234a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
   <a href="https://github.com/clayveralexssander"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  
-  <a href="https://wa.me/5519988320982"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
-</div>  
+ </div>  
 
 ---
 
