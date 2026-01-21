@@ -1,4 +1,4 @@
-  ![1](https://github.com/user-attachments/assets/f48222d8-cf95-4ecc-85f6-04a26bf8e7ca)
+ ![Cópia de Apresentação de Negócios Plano de Negócios Geométrico Corporativo Verde Preto e Branco](https://github.com/user-attachments/assets/e85673d7-2600-464f-accf-92cc61627963)
 
  
 ## 👋 Sobre Mim  
