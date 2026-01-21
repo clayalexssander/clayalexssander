@@ -1,4 +1,4 @@
- ![Cópia de Apresentação de Negócios Plano de Negócios Geométrico Corporativo Verde Preto e Branco](https://github.com/user-attachments/assets/e85673d7-2600-464f-accf-92cc61627963)
+ ![bannerREADME](https://github.com/user-attachments/assets/9bce27b7-bf53-4be6-8238-784dea807c33)
 
  
 ## 👋 Sobre Mim  
