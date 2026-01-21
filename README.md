@@ -1,4 +1,5 @@
- <img width="1920"  height="1080" src="https://github.com/user-attachments/assets/8e18d760-dd77-4fb7-9252-b15e900a7eb6" />
+  ![1](https://github.com/user-attachments/assets/f48222d8-cf95-4ecc-85f6-04a26bf8e7ca)
+
  
 ## 👋 Sobre Mim  
 
