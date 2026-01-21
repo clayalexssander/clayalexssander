@@ -10,6 +10,8 @@ Tenho experiência em **C#**, **Python** e **MySQL (avançado)**, atuando com **
 Autor de projetos com impacto social como o **EcoFinder** — sistema para conectar coletores de recicláveis a solicitações de moradores e empresas — e o **DengueSense** — ferramenta web integrada a API de IA para prevenção e conscientização sobre surtos de dengue.  
 
 Busco me consolidar como **desenvolvedor backend e integrações**, criando soluções **robustas, escaláveis e de fácil manutenção**.  
+![7](https://github.com/user-attachments/assets/b0a8d48b-87e0-4788-8602-50d97647fa47)
+
 
 - 🔭 Projetos: **EcoFinder**, uma solução para otimizar a coleta de materiais recicláveis por meio da conexão entre coletores e solicitantes; e **DengueSense**, uma plataforma de conscientização e prevenção de surtos de dengue, integrada a recursos de Inteligência Artificial.  
 - 🌱 Em constante aprimoramento nas áreas de **Integração de APIs**, **Análise de Dados**, **arquitetura backend orientada a boas práticas** e **aplicações de Inteligência Artificial**. 
