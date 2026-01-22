@@ -8,10 +8,9 @@ Sou **Desenvolvedor de Software** com formação técnica em **Informática** e 
 Tenho experiência em **C#**, **Python** e **MySQL (avançado)**, atuando com **modelagem e administração de banco de dados**, **integração de APIs** e **desenvolvimento web** com **HTML, CSS e JavaScript**.  
 
 Autor de projetos com impacto social como o **EcoFinder** — sistema para conectar coletores de recicláveis a solicitações de moradores e empresas — e o **DengueSense** — ferramenta web integrada a API de IA para prevenção e conscientização sobre surtos de dengue.  
-
 Busco me consolidar como **desenvolvedor backend e integrações**, criando soluções **robustas, escaláveis e de fácil manutenção**.  
- ![TheTowerProject](https://github.com/user-attachments/assets/1a68700b-fa33-4b9f-baeb-e4198eb58c4a)
-
+ 
+![TheTowerProject(1)](https://github.com/user-attachments/assets/f16a1e21-07d0-4aa4-8504-05503ec9bc02)
 
 - 🔭 Projetos: **EcoFinder**, uma solução para otimizar a coleta de materiais recicláveis por meio da conexão entre coletores e solicitantes; e **DengueSense**, uma plataforma de conscientização e prevenção de surtos de dengue, integrada a recursos de Inteligência Artificial.  
 - 🌱 Em constante aprimoramento nas áreas de **Integração de APIs**, **Análise de Dados**, **arquitetura backend orientada a boas práticas** e **aplicações de Inteligência Artificial**. 
