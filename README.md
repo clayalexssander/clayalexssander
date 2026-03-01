@@ -1,8 +1,8 @@
  ![bannerREADME](https://github.com/user-attachments/assets/9bce27b7-bf53-4be6-8238-784dea807c33)
-
  ![bannerREADME(2)](https://github.com/user-attachments/assets/ff8733bb-16da-4574-ba24-30fb9de04f2c)
+ 
+![TheTowerProject](https://github.com/user-attachments/assets/c1749555-3563-4f50-a377-98676fb33f4b)
 
- ![TheTowerProject(2)](https://github.com/user-attachments/assets/1722c6f1-6de0-4741-8509-e4a8f0ffc779)
 
 ## 📫 Conecte-se Comigo  
 
